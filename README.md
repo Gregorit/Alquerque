@@ -18,7 +18,7 @@ Simplified rules are also included in program. Please read them before play.
 
 ## Prerequisites
 
-You need to compile this project by yourself in any C++ compiler.
+You need to compile this project by yourself in any C++ compiler.  
 gcc example:
 
 ```
