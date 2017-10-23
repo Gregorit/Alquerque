@@ -40,9 +40,9 @@ For example:
 
 ```
 B3
-**pressing Enter**
+**press Enter**
 C2
-**pressing Enter**
+**press Enter**
 ```
 
 Every rule about moving piece is explained in in-game rules.
