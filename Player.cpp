@@ -27,7 +27,6 @@ void Player::move(Board<char> &board)
 			cin >> from_j;
 			cin.clear();
 			cin.ignore(numeric_limits<streamsize>::max(), '\n');	//deleting from stream cin all incorrect characters
-                                        //in VS '13: cin.ignore(numeric_limits<streamsize>::max(), '\n');
 			if (from_i < 'A' || from_i > 'A' + PIECES_ARRAY_MAX || from_j < 0 || from_j > 4 || get_piece() != board.arr[from_j][from_i - 'A'])
 			{
 				from_i = 'z';
