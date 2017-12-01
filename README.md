@@ -19,11 +19,12 @@ Simplified rules are also included in program. Please read them before play.
 ## Prerequisites
 
 You need to compile this project by yourself in any C++ compiler.  
-gcc example:
+  
+Use this one liner to compile .cpp and .h files and simultaneously execute the game.
+Of course if we talk about using g++:
 
 ```
-$ gcc Main.cpp [rest of .cpp and .h files] -o output
-$ ./output
+$ g++ *.cpp *.h -o output && ./output
 ```
 
 ## How to use
@@ -47,6 +48,9 @@ C2
 
 Every rule about moving piece is explained in in-game rules.
 
+## Screenshots
+![alt text](https://imghost.io/images/2017/12/01/ZrzutekranuDeepin_wybierz-obszar_20171201183847.png)
+![alt text](https://imghost.io/images/2017/12/01/ZrzutekranuDeepin_wybierz-obszar_20171201184000.png)
 
 ## Tools used to create this project
 
