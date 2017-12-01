@@ -2,7 +2,7 @@
 
 Alquerque is a project in command line environment written in C++.
 Previously I was using MSVC compiler for it.
-I reworked the code, so now it works also on gcc.
+I reworked the code, so now it works also on g++.
 
 It's a game similar to checkers.
 You can play it with friend or with CPU.
@@ -54,11 +54,11 @@ Every rule about moving piece is explained in in-game rules.
 
 ## Tools used to create this project
 
-### Before gcc compatibility
+### Before g++ compatibility
 * [Windows 7 Ultimate](https://www.microsoft.com/en-us/windows/) - System used to make this project
 * [Visual Studio Professional 2013](https://msdn.microsoft.com/en-us/library/dd831853(v=vs.120)) - C++ IDE and compiler
 
-### After gcc compatibility
+### After g++ compatibility
 * [Antergos 17.10](https://antergos.com) - System used to make this project
 * [Code::Blocks](http://www.codeblocks.org) - C++ IDE
-* [gcc](https://gcc.gnu.org) - C++ compiler
+* [g++](https://gcc.gnu.org) - C++ compiler
